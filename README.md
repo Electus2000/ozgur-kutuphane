@@ -72,10 +72,17 @@ Dört konuda toplam 33 kitap var. Aşağıdaki başlıkların hepsi doğrudan PD
 - **Ursula K. Le Guin**
   - [Mülksüzler](kitaplar/roman-ve-kurmacalar/ursula-k.-le-guin/mülksüzler.pdf)
 
-## Bir şey eklerken
+## Nasıl Katkı Sağlarım?
 
-Dosyayı `kitaplar/konu/yazar/kitap.pdf` yoluna koy, adları küçük harfle yaz, boşlukların yerine `-` koy. Sonra da yukarıdaki listeye ekle. Hepsi bu.
+Kitabı bana herhangi bir yolla iletmen yeterli; dosyayı ben yerine koyarım, adını da düzenlerim. Ha diyorsanız ben GitHub tarafını biliyorum, depoyu kopyalayıp `kitaplar/konu/yazar/kitap.pdf` yoluna ekleyip bir pull request açabilirsin. İkisi de aynı kapıya çıkıyor.
 
-Yanlış yazılmış bir başlık ya da eksik bir kitap görürsen düzeltebilirsin; listeyi güncel tutmak asıl mesele.
+Dosyalarda şunlara bakıyorum:
+
+- Kitap buradaki konulardan biriyle doğru katogorize edilmiş mi?
+- Başlık ve yazar doğru yazılmış mı? Türkçe baskıda geçen adı esas alıyorum; yazarın kendi adını da çeviriyle bozmuyorum (Karl Marks değil, Karl Marx).
+- PDF gerçekten açılıyor mu, sayfalar eksik mi, okunabilir mi?
+- Aynı kitap zaten duruyor mu? Aynı dosyayı iki kez koymuyoruz.
+
+Uygunsa dosyayı koyup listeye bağlantısını ekliyorum. Uygun değilse nedenini yazıp geri dönüyorum.
 
 Telif hakkı elbette yazarların, çevirmenlerin ve yayınevlerinin. Burada yaptığım tek şey o kitaplara ulaşmayı kolaylaştırmak; ne satıyorum ne de üzerinden para kazanıyorum. Saygılar...
