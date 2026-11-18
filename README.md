@@ -1,4 +1,8 @@
-# Özgür Kütüphane
+<p align="center">
+  <img src="https://github.com/Electus2000/ozgur-kutuphane/blob/main/icon.png" alt=" Özgür Kütüphane" width="200" height="200">
+</p>
+
+<h1 align="center">Özgür Kütüphane</h1>
 
 Felsefe, tarih, siyaset, edebiyat ve toplumsal düşünce alanlarında kitapları, metinleri ve belgeleri bir araya getiren özgür bir dijital arşiv.
 
