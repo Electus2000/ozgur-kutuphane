@@ -47,7 +47,7 @@ Dört konuda toplam 33 kitap var. Aşağıdaki başlıkların hepsi doğrudan PD
   - [Anarşizm mi? Sosyalizm mi?](kitaplar/marksizm/j.-stalin/anarşizm-mi%3F-sosyalizm-mi%3F.pdf)
 - **Karl Marx**
   - [1844 Elyazmaları](kitaplar/marksizm/karl-marx/1844-elyazmaları.pdf)
-  - [Alman İdeolojisi](kitaplar/marksizm/karl-marx/alman-ideolojisi.pdf)
+  - [Alman İdeolojisi (Feuerbach)](kitaplar/marksizm/karl-marx/alman-ideolojisi.pdf)
   - [Fransa'da İç Savaş](kitaplar/marksizm/karl-marx/fransa%27da-iç-savaş.pdf)
   - [Grundrisse 1](kitaplar/marksizm/karl-marx/grundrisse-1.pdf)
   - [Grundrisse 2](kitaplar/marksizm/karl-marx/grundrisse-2.pdf)
