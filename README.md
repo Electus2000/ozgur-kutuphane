@@ -6,7 +6,7 @@ Felsefe, tarih, siyaset, edebiyat ve toplumsal düşünce alanlarında kitaplar�
 
 Dört konuda toplam 33 kitap var. Aşağıdaki başlıkların hepsi doğrudan PDF'e götürüyor.
 
-### Anarşizm — 16 kitap
+### Anarşizm / 16 kitap
 
 - **Alexander Berkman**
   - [Anarşizm Nedir?](kitaplar/anarşizm/alexander-berkman/anarşizm-nedir%3F.pdf)
@@ -38,7 +38,7 @@ Dört konuda toplam 33 kitap var. Aşağıdaki başlıkların hepsi doğrudan PD
 - **Volin**
   - [Bilinmeyen Devrim](kitaplar/anarşizm/volin/bilinmeyen-devrim.pdf)
 
-### Marksizm — 15 kitap
+### Marksizm / 15 kitap
 
 - **Friedrich Engels**
   - [Ailenin, Özel Mülkiyetin ve Devletin Kökeni](kitaplar/marksizm/friedrich-engels/ailenin-özel-mülkiyetin-ve-devletin-kökeni.pdf)
@@ -67,7 +67,7 @@ Dört konuda toplam 33 kitap var. Aşağıdaki başlıkların hepsi doğrudan PD
 - **Leo Huberman**
   - [Sosyalizmin Alfabesi](kitaplar/sosyalizm/leo-huberman/sosyalizmin-alfabesi.pdf)
 
-### Roman ve Kurmacalar — 1 kitap
+### Roman ve Kurmacalar / 1 kitap
 
 - **Ursula K. Le Guin**
   - [Mülksüzler](kitaplar/roman-ve-kurmacalar/ursula-k.-le-guin/mülksüzler.pdf)
@@ -79,7 +79,7 @@ Kitabı bana herhangi bir yolla iletmen yeterli; dosyayı ben yerine koyarım, a
 Dosyalarda şunlara bakıyorum:
 
 - Kitap buradaki konulardan biriyle doğru katogorize edilmiş mi?
-- Başlık ve yazar doğru yazılmış mı? Türkçe baskıda geçen adı esas alıyorum; yazarın kendi adını da çeviriyle bozmuyorum (Karl Marks değil, Karl Marx).
+- Başlık ve yazar doğru yazılmış mı? Türkçe baskıda geçen adı esas alıyorum; yazarın kendi adını da çeviriyle bozmuyorum (ör: Karl Marks değil, Karl Marx).
 - PDF gerçekten açılıyor mu, sayfalar eksik mi, okunabilir mi?
 - Aynı kitap zaten duruyor mu? Aynı dosyayı iki kez koymuyoruz.
 
