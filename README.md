@@ -7,7 +7,7 @@ Felsefe, tarih, siyaset, edebiyat ve toplumsal düşünce alanlarında kitaplar�
 
 ## Kitaplar
 
-Dört konuda toplam 33 kitap var. Aşağıdaki başlıkların hepsi doğrudan PDF'e götürüyor.
+Dört konuda toplam 34 kitap var. Aşağıdaki başlıkların hepsi doğrudan PDF'e götürüyor.
 
 ### Anarşizm / 16 kitap
 
@@ -41,7 +41,7 @@ Dört konuda toplam 33 kitap var. Aşağıdaki başlıkların hepsi doğrudan PD
 - **Volin**
   - [Bilinmeyen Devrim](kitaplar/anarşizm/volin/bilinmeyen-devrim.pdf)
 
-### Marksizm / 15 kitap
+### Marksizm / 16 kitap
 
 - **Friedrich Engels**
   - [Ailenin, Özel Mülkiyetin ve Devletin Kökeni](kitaplar/marksizm/friedrich-engels/ailenin-özel-mülkiyetin-ve-devletin-kökeni.pdf)
@@ -60,6 +60,7 @@ Dört konuda toplam 33 kitap var. Aşağıdaki başlıkların hepsi doğrudan PD
   - [Ücretli Emek ve Sermaye](kitaplar/marksizm/karl-marx/ücretli-emek-ve-sermaye.pdf)
 - **Karl Marx ve Friedrich Engels**
   - [Gotha ve Erfurt Programlarının Eleştirisi](kitaplar/marksizm/karl-marx-ve-friedrich-engels/gotha-ve-erfurt-programlarının-eleştirisi.pdf)
+  - [Komünist Manifesto](kitaplar/marksizm/karl-marx-ve-friedrich-engels/komünist-manifesto.pdf)
 - **Mahir Çayan**
   - [Bütün Yazılar](kitaplar/marksizm/mahir-çayan/bütün-yazılar.pdf)
 - **Vladimir Lenin**
