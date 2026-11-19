@@ -7,9 +7,9 @@ Felsefe, tarih, siyaset, edebiyat ve toplumsal düşünce alanlarında kitaplar�
 
 ## Kitaplar
 
-26 etikette toplam 71 kitap var. Dosyalar yazara göre klasörlenir; konular etiketlerle tutulur ve bir kitap birden fazla etikete girebilir.
+27 etikette toplam 71 kitap var. Dosyalar yazara göre klasörlenir; konular etiketlerle tutulur ve bir kitap birden fazla etikete girebilir.
 
-Etiketler:  `anarşizm · anarko-komünizm · anarko-sendikalizm · platformizm · cnt · mahnovşçina · ispanyol-devrimi · rus-devrimi · sosyalizm · marksizm · komünizm · kapitalizm · liberalizm · mülkiyet · ekonomi · örgütlenme · devlet · primitivizm · teknoloji-eleştirisi · ekoloji · feminizm · sömürgecilik · felsefe · biyografi · tarih · edebiyat `
+Etiketler:  `anarşizm · anarko-komünizm · anarko-sendikalizm · platformizm · cnt · mahnovşçina · ispanyol-devrimi · rus-devrimi · sosyalizm · türkiye solu · marksizm · komünizm · kapitalizm · liberalizm · mülkiyet · ekonomi · örgütlenme · devlet · primitivizm · teknoloji-eleştirisi · ekoloji · feminizm · sömürgecilik · felsefe · biyografi · tarih · edebiyat `
 
 ### Anarşizm / 36 kitap
 
@@ -152,7 +152,7 @@ Etiketler:  `anarşizm · anarko-komünizm · anarko-sendikalizm · platformizm 
   - [Sosyalizmin Alfabesi](kitaplar/leo-huberman/sosyalizmin-alfabesi.pdf) — etiketler: `sosyalizm`, `marksizm`, `komünizm`, `ekonomi`
 
 - **Mahir Çayan**
-  - [Bütün Yazılar](kitaplar/mahir-çayan/bütün-yazılar.pdf) — etiketler: `sosyalizm`, `marksizm`, `komünizm`, `devlet`, `felsefe`, `tarih`
+  - [Bütün Yazılar](kitaplar/mahir-çayan/bütün-yazılar.pdf) — etiketler: `sosyalizm`, `marksizm`, `komünizm`, `devlet`, `felsefe`, `tarih`, `türkiye solu`
 
 - **Mihail Bakunin**
   - [Marksizm, Özgürlük ve Devlet](kitaplar/mihail-bakunin/marksizm-özgürlük-ve-devlet.pdf) — etiketler: `anarşizm`, `sosyalizm`, `marksizm`, `devlet`, `felsefe`
@@ -225,7 +225,7 @@ Etiketler:  `anarşizm · anarko-komünizm · anarko-sendikalizm · platformizm 
   - [Fransa'da İç Savaş](kitaplar/karl-marx/fransa%27da-iç-savaş.pdf) — etiketler: `marksizm`, `komünizm`, `devlet`, `tarih`
 
 - **Mahir Çayan**
-  - [Bütün Yazılar](kitaplar/mahir-çayan/bütün-yazılar.pdf) — etiketler: `sosyalizm`, `marksizm`, `komünizm`, `devlet`, `felsefe`, `tarih`
+  - [Bütün Yazılar](kitaplar/mahir-çayan/bütün-yazılar.pdf) — etiketler: `sosyalizm`, `marksizm`, `komünizm`, `devlet`, `felsefe`, `tarih`, `türkiye solu`
 
 - **Nestor Makhno**
   - [Devlete Karşı Mücadele](kitaplar/nestor-makhno/devlete-karşı-mücadele.pdf) — etiketler: `anarşizm`, `anarko-komünizm`, `mahnovşçina`, `rus-devrimi`, `örgütlenme`, `devlet`, `tarih`
