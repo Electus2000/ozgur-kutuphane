@@ -7,9 +7,9 @@ Felsefe, tarih, siyaset, edebiyat ve toplumsal düşünce alanlarında kitaplar�
 
 ## Kitaplar
 
-Yirmi dört etikette toplam 71 kitap var. Dosyalar yazara göre klasörlenir; konular etiketlerle tutulur ve bir kitap birden fazla etikete girebilir.
+24 etikette toplam 71 kitap var. Dosyalar yazara göre klasörlenir; konular etiketlerle tutulur ve bir kitap birden fazla etikete girebilir.
 
-Etiketler: anarşizm · anarko-sendikalizm · cnt · mahnovşçina · ispanyol-devrimi · rus-devrimi · sosyalizm · marksizm · komünizm · kapitalizm · liberalizm · mülkiyet · ekonomi · örgütlenme · devlet · primitivizm · teknoloji-eleştirisi · ekoloji · feminizm · sömürgecilik · felsefe · biyografi · tarih · edebiyat
+Etiketler:  `anarşizm · anarko-sendikalizm · cnt · mahnovşçina · ispanyol-devrimi · rus-devrimi · sosyalizm · marksizm · komünizm · kapitalizm · liberalizm · mülkiyet · ekonomi · örgütlenme · devlet · primitivizm · teknoloji-eleştirisi · ekoloji · feminizm · sömürgecilik · felsefe · biyografi · tarih · edebiyat `
 
 ### Anarşizm / 36 kitap
 
