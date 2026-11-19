@@ -7,9 +7,9 @@ Felsefe, tarih, siyaset, edebiyat ve toplumsal düşünce alanlarında kitaplar�
 
 ## Kitaplar
 
-24 etikette toplam 71 kitap var. Dosyalar yazara göre klasörlenir; konular etiketlerle tutulur ve bir kitap birden fazla etikete girebilir.
+26 etikette toplam 71 kitap var. Dosyalar yazara göre klasörlenir; konular etiketlerle tutulur ve bir kitap birden fazla etikete girebilir.
 
-Etiketler:  `anarşizm · anarko-sendikalizm · cnt · mahnovşçina · ispanyol-devrimi · rus-devrimi · sosyalizm · marksizm · komünizm · kapitalizm · liberalizm · mülkiyet · ekonomi · örgütlenme · devlet · primitivizm · teknoloji-eleştirisi · ekoloji · feminizm · sömürgecilik · felsefe · biyografi · tarih · edebiyat `
+Etiketler:  `anarşizm · anarko-komünizm · anarko-sendikalizm · platformizm · cnt · mahnovşçina · ispanyol-devrimi · rus-devrimi · sosyalizm · marksizm · komünizm · kapitalizm · liberalizm · mülkiyet · ekonomi · örgütlenme · devlet · primitivizm · teknoloji-eleştirisi · ekoloji · feminizm · sömürgecilik · felsefe · biyografi · tarih · edebiyat `
 
 ### Anarşizm / 36 kitap
 
@@ -20,19 +20,19 @@ Etiketler:  `anarşizm · anarko-sendikalizm · cnt · mahnovşçina · ispanyol
   - [Anarşizmin ABC'si](kitaplar/brian-heagney/anarşizmin-abc%27si.pdf) — etiketler: `anarşizm`, `felsefe`
 
 - **Daniel Guérin**
-  - [Anarşizm: Teoriden Pratiğe](kitaplar/daniel-guerin/anarşizm-teoriden-pratiğe.pdf) — etiketler: `anarşizm`, `anarko-sendikalizm`, `cnt`, `ispanyol-devrimi`, `sosyalizm`, `tarih`
+  - [Anarşizm: Teoriden Pratiğe](kitaplar/daniel-guerin/anarşizm-teoriden-pratiğe.pdf) — etiketler: `anarşizm`, `anarko-komünizm`, `anarko-sendikalizm`, `cnt`, `ispanyol-devrimi`, `sosyalizm`, `tarih`
 
 - **Dennis Fox**
   - [Anarşizm](kitaplar/dennis-fox/anarşizm.pdf) — etiketler: `anarşizm`, `felsefe`
 
 - **Dielo Truda Grubu**
-  - [Liberter Komünistlerin Örgütsel Platformu](kitaplar/dielo-truda-grubu/liberter-komünistlerin-örgütsel-platformu.pdf) — etiketler: `anarşizm`, `mahnovşçina`, `komünizm`, `örgütlenme`, `devlet`
+  - [Liberter Komünistlerin Örgütsel Platformu](kitaplar/dielo-truda-grubu/liberter-komünistlerin-örgütsel-platformu.pdf) — etiketler: `anarşizm`, `anarko-komünizm`, `platformizm`, `mahnovşçina`, `örgütlenme`, `devlet`
 
 - **Élisée Reclus**
-  - [Anarşi, Coğrafya ve Modernite](kitaplar/elisee-reclus/anarşi-coğrafya-ve-modernite.pdf) — etiketler: `anarşizm`, `ekoloji`, `felsefe`
+  - [Anarşi, Coğrafya ve Modernite](kitaplar/elisee-reclus/anarşi-coğrafya-ve-modernite.pdf) — etiketler: `anarşizm`, `anarko-komünizm`, `ekoloji`, `felsefe`
 
 - **Emma Goldman**
-  - [Anarşizm Neyi Savunur?](kitaplar/emma-goldman/anarşizm-neyi-savunur%3F.pdf) — etiketler: `anarşizm`, `devlet`, `feminizm`
+  - [Anarşizm Neyi Savunur?](kitaplar/emma-goldman/anarşizm-neyi-savunur%3F.pdf) — etiketler: `anarşizm`, `anarko-komünizm`, `devlet`, `feminizm`
   - [Bolşeviklerin Devrime İhanetinin Öyküsü](kitaplar/emma-goldman/bolşeviklerin-devrime-ihanetinin-öyküsü.pdf) — etiketler: `anarşizm`, `rus-devrimi`, `sosyalizm`, `devlet`, `tarih`
   - [Dans Edemeyeceksem Bu Benim Devrimim Değildir](kitaplar/emma-goldman/dans-edemeyeceksem-bu-benim-devrimim-değildir.pdf) — etiketler: `anarşizm`, `felsefe`
   - [Görünüşün Altında](kitaplar/emma-goldman/görünüşün-altında.pdf) — etiketler: `anarşizm`, `sosyalizm`, `feminizm`, `felsefe`
@@ -57,10 +57,10 @@ Etiketler:  `anarşizm · anarko-sendikalizm · cnt · mahnovşçina · ispanyol
   - [Özgürlüğün Ekolojisi](kitaplar/murray-bookchin/özgürlüğün-ekolojisi.pdf) — etiketler: `anarşizm`, `sosyalizm`, `teknoloji-eleştirisi`, `ekoloji`, `felsefe`
 
 - **Nestor Makhno**
-  - [Devlete Karşı Mücadele](kitaplar/nestor-makhno/devlete-karşı-mücadele.pdf) — etiketler: `anarşizm`, `mahnovşçina`, `rus-devrimi`, `örgütlenme`, `devlet`, `tarih`
-  - [Devrimci Anarşistin ABC'si](kitaplar/nestor-makhno/devrimci-anarsistin-abc%27si.pdf) — etiketler: `anarşizm`, `komünizm`, `mahnovşçina`, `örgütlenme`
-  - [Genç Devrimcilere](kitaplar/nestor-makhno/genç-devrimcilere.pdf) — etiketler: `anarşizm`, `mahnovşçina`, `örgütlenme`
-  - [Platform Hakkında](kitaplar/nestor-makhno/platform-hakkında.pdf) — etiketler: `anarşizm`, `mahnovşçina`, `komünizm`, `örgütlenme`
+  - [Devlete Karşı Mücadele](kitaplar/nestor-makhno/devlete-karşı-mücadele.pdf) — etiketler: `anarşizm`, `anarko-komünizm`, `mahnovşçina`, `rus-devrimi`, `örgütlenme`, `devlet`, `tarih`
+  - [Devrimci Anarşistin ABC'si](kitaplar/nestor-makhno/devrimci-anarsistin-abc%27si.pdf) — etiketler: `anarşizm`, `anarko-komünizm`, `mahnovşçina`, `örgütlenme`
+  - [Genç Devrimcilere](kitaplar/nestor-makhno/genç-devrimcilere.pdf) — etiketler: `anarşizm`, `anarko-komünizm`, `mahnovşçina`, `örgütlenme`
+  - [Platform Hakkında](kitaplar/nestor-makhno/platform-hakkında.pdf) — etiketler: `anarşizm`, `anarko-komünizm`, `platformizm`, `mahnovşçina`, `örgütlenme`
 
 - **Pierre-Joseph Proudhon**
   - [Mülkiyet Nedir?](kitaplar/pierre-joseph-proudhon/mülkiyet-nedir%3F.pdf) — etiketler: `anarşizm`, `kapitalizm`, `mülkiyet`, `ekonomi`, `devlet`, `felsefe`
@@ -70,14 +70,14 @@ Etiketler:  `anarşizm · anarko-sendikalizm · cnt · mahnovşçina · ispanyol
 
 - **Pyotr Kropotkin**
   - [Çağdaş Bilim ve Anarşi](kitaplar/pyotr-kropotkin/çağdaş-bilim-ve-anarşi.pdf) — etiketler: `anarşizm`, `teknoloji-eleştirisi`, `ekoloji`, `felsefe`
-  - [Ekmeğin Fethi](kitaplar/pyotr-kropotkin/ekmeğin-fethi.pdf) — etiketler: `anarşizm`, `sosyalizm`, `komünizm`, `ekonomi`
-  - [Karşılıklı Yardımlaşma](kitaplar/pyotr-kropotkin/karşılıklı-yardımlaşma.pdf) — etiketler: `anarşizm`, `ekoloji`, `felsefe`
+  - [Ekmeğin Fethi](kitaplar/pyotr-kropotkin/ekmeğin-fethi.pdf) — etiketler: `anarşizm`, `anarko-komünizm`, `sosyalizm`, `ekonomi`
+  - [Karşılıklı Yardımlaşma](kitaplar/pyotr-kropotkin/karşılıklı-yardımlaşma.pdf) — etiketler: `anarşizm`, `anarko-komünizm`, `ekoloji`, `felsefe`
 
 - **Rudolf Rocker**
   - [Anarko-Sendikalizm: Teori ve Pratik](kitaplar/rudolf-rocker/anarko-sendikalizm-teori-ve-pratik.pdf) — etiketler: `anarşizm`, `anarko-sendikalizm`, `ekonomi`, `örgütlenme`
 
 - **Scott Nappalos**
-  - [Anarşist Komünist Ekonominin Pratiği](kitaplar/scott-nappalos/anarşist-komünist-ekonominin-pratiği.pdf) — etiketler: `anarşizm`, `sosyalizm`, `marksizm`, `komünizm`, `ekonomi`, `örgütlenme`
+  - [Anarşist Komünist Ekonominin Pratiği](kitaplar/scott-nappalos/anarşist-komünist-ekonominin-pratiği.pdf) — etiketler: `anarşizm`, `anarko-komünizm`, `sosyalizm`, `marksizm`, `ekonomi`, `örgütlenme`
 
 - **Theodore Kaczynski**
   - [Sanayi Toplumu ve Geleceği](kitaplar/theodore-kaczynski/sanayi-toplumu-ve-geleceği.pdf) — etiketler: `anarşizm`, `primitivizm`, `teknoloji-eleştirisi`, `ekoloji`
@@ -92,13 +92,13 @@ Etiketler:  `anarşizm · anarko-sendikalizm · cnt · mahnovşçina · ispanyol
 ### Mahnovşçina ve Ukrayna / 8 kitap
 
 - **Dielo Truda Grubu**
-  - [Liberter Komünistlerin Örgütsel Platformu](kitaplar/dielo-truda-grubu/liberter-komünistlerin-örgütsel-platformu.pdf) — etiketler: `anarşizm`, `mahnovşçina`, `komünizm`, `örgütlenme`, `devlet`
+  - [Liberter Komünistlerin Örgütsel Platformu](kitaplar/dielo-truda-grubu/liberter-komünistlerin-örgütsel-platformu.pdf) — etiketler: `anarşizm`, `anarko-komünizm`, `platformizm`, `mahnovşçina`, `örgütlenme`, `devlet`
 
 - **Nestor Makhno**
-  - [Devlete Karşı Mücadele](kitaplar/nestor-makhno/devlete-karşı-mücadele.pdf) — etiketler: `anarşizm`, `mahnovşçina`, `rus-devrimi`, `örgütlenme`, `devlet`, `tarih`
-  - [Devrimci Anarşistin ABC'si](kitaplar/nestor-makhno/devrimci-anarsistin-abc%27si.pdf) — etiketler: `anarşizm`, `komünizm`, `mahnovşçina`, `örgütlenme`
-  - [Genç Devrimcilere](kitaplar/nestor-makhno/genç-devrimcilere.pdf) — etiketler: `anarşizm`, `mahnovşçina`, `örgütlenme`
-  - [Platform Hakkında](kitaplar/nestor-makhno/platform-hakkında.pdf) — etiketler: `anarşizm`, `mahnovşçina`, `komünizm`, `örgütlenme`
+  - [Devlete Karşı Mücadele](kitaplar/nestor-makhno/devlete-karşı-mücadele.pdf) — etiketler: `anarşizm`, `anarko-komünizm`, `mahnovşçina`, `rus-devrimi`, `örgütlenme`, `devlet`, `tarih`
+  - [Devrimci Anarşistin ABC'si](kitaplar/nestor-makhno/devrimci-anarsistin-abc%27si.pdf) — etiketler: `anarşizm`, `anarko-komünizm`, `mahnovşçina`, `örgütlenme`
+  - [Genç Devrimcilere](kitaplar/nestor-makhno/genç-devrimcilere.pdf) — etiketler: `anarşizm`, `anarko-komünizm`, `mahnovşçina`, `örgütlenme`
+  - [Platform Hakkında](kitaplar/nestor-makhno/platform-hakkında.pdf) — etiketler: `anarşizm`, `anarko-komünizm`, `platformizm`, `mahnovşçina`, `örgütlenme`
 
 - **Peter Arşinov**
   - [Ukrayna Anarşist Hareketi - Mahnovşçina](kitaplar/pyotr-arsinov/ukrayna-anarşist-hareketi-mahnovşçina.pdf) — etiketler: `anarşizm`, `mahnovşçina`, `rus-devrimi`, `örgütlenme`, `devlet`, `tarih`
@@ -158,7 +158,7 @@ Etiketler:  `anarşizm · anarko-sendikalizm · cnt · mahnovşçina · ispanyol
   - [Marksizm, Özgürlük ve Devlet](kitaplar/mihail-bakunin/marksizm-özgürlük-ve-devlet.pdf) — etiketler: `anarşizm`, `sosyalizm`, `marksizm`, `devlet`, `felsefe`
 
 - **Scott Nappalos**
-  - [Anarşist Komünist Ekonominin Pratiği](kitaplar/scott-nappalos/anarşist-komünist-ekonominin-pratiği.pdf) — etiketler: `anarşizm`, `sosyalizm`, `marksizm`, `komünizm`, `ekonomi`, `örgütlenme`
+  - [Anarşist Komünist Ekonominin Pratiği](kitaplar/scott-nappalos/anarşist-komünist-ekonominin-pratiği.pdf) — etiketler: `anarşizm`, `anarko-komünizm`, `sosyalizm`, `marksizm`, `ekonomi`, `örgütlenme`
 
 - **Vladimir Lenin**
   - [Devlet ve Devrim](kitaplar/vladimir-lenin/devlet-ve-devrim.pdf) — etiketler: `sosyalizm`, `marksizm`, `komünizm`, `örgütlenme`, `devlet`
@@ -228,7 +228,7 @@ Etiketler:  `anarşizm · anarko-sendikalizm · cnt · mahnovşçina · ispanyol
   - [Bütün Yazılar](kitaplar/mahir-çayan/bütün-yazılar.pdf) — etiketler: `sosyalizm`, `marksizm`, `komünizm`, `devlet`, `felsefe`, `tarih`
 
 - **Nestor Makhno**
-  - [Devlete Karşı Mücadele](kitaplar/nestor-makhno/devlete-karşı-mücadele.pdf) — etiketler: `anarşizm`, `mahnovşçina`, `rus-devrimi`, `örgütlenme`, `devlet`, `tarih`
+  - [Devlete Karşı Mücadele](kitaplar/nestor-makhno/devlete-karşı-mücadele.pdf) — etiketler: `anarşizm`, `anarko-komünizm`, `mahnovşçina`, `rus-devrimi`, `örgütlenme`, `devlet`, `tarih`
 
 - **Peter Arşinov**
   - [Ukrayna Anarşist Hareketi - Mahnovşçina](kitaplar/pyotr-arsinov/ukrayna-anarşist-hareketi-mahnovşçina.pdf) — etiketler: `anarşizm`, `mahnovşçina`, `rus-devrimi`, `örgütlenme`, `devlet`, `tarih`
