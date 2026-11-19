@@ -5,8 +5,6 @@
 
 Felsefe, tarih, siyaset, edebiyat ve toplumsal düşünce alanlarında kitapları, metinleri ve belgeleri bir araya getiren özgür bir dijital arşiv.
 
-Tarayıcıda kapaklarıyla aramak için [kütüphane arayüzünü](index.html) açabilirsin. Yerelde denemek için proje klasöründe `python3 -m http.server` çalıştırıp `http://localhost:8000` adresine git.
-
 ## Kitaplar
 
 Yirmi dört etikette toplam 71 kitap var. Dosyalar yazara göre klasörlenir; konular etiketlerle tutulur ve bir kitap birden fazla etikete girebilir.
