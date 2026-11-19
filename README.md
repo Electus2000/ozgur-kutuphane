@@ -41,7 +41,7 @@ Etiketler:  `anarşizm · anarko-komünizm · anarko-sendikalizm · platformizm 
   - [Rus Devriminin Çöküş Nedenleri](kitaplar/emma-goldman/rus-devriminin-çöküş-nedenleri.pdf) — etiketler: `anarşizm`, `rus-devrimi`, `sosyalizm`, `devlet`, `tarih`
 
 - **George Orwell**
-  - [Katalonya'ya Selam](kitaplar/george-orwell/katalonya%27ya-selam.pdf) — etiketler: `anarşizm`, `anarko-sendikalizm`, `cnt`, `ispanyol-devrimi`, `sosyalizm`, `biyografi`, `tarih`
+  - [Katalonya'ya Selam](kitaplar/george-orwell/katalonya%27ya-selam.pdf) — etiketler: `anarşizm`, `anarko-komünizm`, `anarko-sendikalizm`, `cnt`, `ispanyol-devrimi`, `sosyalizm`, `biyografi`, `tarih`
 
 - **J. Stalin**
   - [Anarşizm mi? Sosyalizm mi?](kitaplar/j.-stalin/anarşizm-mi%3F-sosyalizm-mi%3F.pdf) — etiketler: `anarşizm`, `sosyalizm`, `marksizm`, `komünizm`, `devlet`
@@ -219,7 +219,7 @@ Etiketler:  `anarşizm · anarko-komünizm · anarko-sendikalizm · platformizm 
   - [Rus Devriminin Çöküş Nedenleri](kitaplar/emma-goldman/rus-devriminin-çöküş-nedenleri.pdf) — etiketler: `anarşizm`, `rus-devrimi`, `sosyalizm`, `devlet`, `tarih`
 
 - **George Orwell**
-  - [Katalonya'ya Selam](kitaplar/george-orwell/katalonya%27ya-selam.pdf) — etiketler: `anarşizm`, `anarko-sendikalizm`, `cnt`, `ispanyol-devrimi`, `sosyalizm`, `biyografi`, `tarih`
+  - [Katalonya'ya Selam](kitaplar/george-orwell/katalonya%27ya-selam.pdf) — etiketler: `anarşizm`, `anarko-komünizm`, `anarko-sendikalizm`, `cnt`, `ispanyol-devrimi`, `sosyalizm`, `biyografi`, `tarih`
 
 - **Karl Marx**
   - [Fransa'da İç Savaş](kitaplar/karl-marx/fransa%27da-iç-savaş.pdf) — etiketler: `marksizm`, `komünizm`, `devlet`, `tarih`
