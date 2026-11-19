@@ -1,0 +1,132 @@
+html { background: #efe9db; color: #14110f; }
+body {
+  margin: 0;
+  font: 13px/1.5 system-ui, -apple-system, "Segoe UI", Roboto, sans-serif;
+  background:
+    repeating-linear-gradient(0deg, rgba(20, 17, 15, .025) 0 1px, transparent 1px 4px),
+    #efe9db;
+}
+.wrap { max-width: 1040px; margin: 0 auto; padding: 0 20px 60px; }
+
+header {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  margin: 0 -20px;
+  padding: 18px 20px 12px;
+  background: #14110f;
+  color: #f4efe3;
+  border-bottom: 5px solid #a3231e;
+}
+.ikon { width: 30px; height: 30px; padding: 2px; background: #f4efe3; border-radius: 50%; object-fit: contain; flex: 0 0 auto; }
+h1 {
+  margin: 0;
+  font: 700 20px/1.2 system-ui, -apple-system, "Segoe UI", Roboto, sans-serif;
+}
+#sayi {
+  margin-left: auto;
+  padding: 2px 6px;
+  border: 1px solid #a3231e;
+  color: #ffb3a8;
+  font-size: 11px;
+}
+
+.ara { display: flex; gap: 14px; align-items: end; padding: 16px 0 12px; border-bottom: 1px solid #14110f; }
+.ara label { color: #6a6155; font-size: 11px; }
+.ara input, .ara select {
+  display: block;
+  margin-top: 4px;
+  padding: 5px 7px;
+  border: 1px solid #14110f;
+  border-radius: 0;
+  background: #f8f4e9;
+  color: #14110f;
+  font-family: inherit;
+  font-size: 13px;
+}
+.ara input { width: 320px; max-width: 100%; }
+.ara input:focus, .ara select:focus { outline: 2px solid #a3231e; outline-offset: 0; }
+.ara button {
+  padding: 6px 10px;
+  border: 1px solid #14110f;
+  border-radius: 0;
+  background: #f8f4e9;
+  color: #14110f;
+  font: inherit;
+  font-size: 11px;
+  cursor: pointer;
+}
+.ara button:hover { background: #a3231e; border-color: #a3231e; color: #fff4e6; }
+
+#etiketler { display: flex; flex-wrap: wrap; gap: 4px 8px; padding: 12px 0 14px; }
+#etiketler button {
+  padding: 2px 5px;
+  border: 1px solid transparent;
+  background: transparent;
+  color: #8f231d;
+  font: inherit;
+  font-size: 12px;
+  cursor: pointer;
+}
+#etiketler button::before { content: "["; color: #b9a99a; }
+#etiketler button::after { content: "]"; color: #b9a99a; }
+#etiketler button span { margin-left: 4px; color: #a09382; font-size: 10px; }
+#etiketler button:hover { border-color: #a3231e; }
+#etiketler button[aria-pressed="true"] { background: #14110f; color: #f4efe3; }
+#etiketler button[aria-pressed="true"]::before,
+#etiketler button[aria-pressed="true"]::after,
+#etiketler button[aria-pressed="true"] span { color: #a3231e; }
+
+#liste { margin: 0; padding: 0 0 0 12px; list-style: none; border-left: 2px solid #a3231e; }
+#liste li {
+  display: grid;
+  grid-template-columns: 3.5ch 48px minmax(0, 1fr) auto;
+  gap: 12px;
+  align-items: start;
+  padding: 11px 0;
+  border-top: 1px solid #c9bda9;
+}
+#liste li:first-child { border-top: 0; }
+.no { color: #a3231e; font-weight: 700; }
+.kapak {
+  width: 48px;
+  height: 68px;
+  overflow: hidden;
+  border: 1px solid #14110f;
+  background: #ded3bd;
+  box-shadow: 2px 2px 0 #c2b49e;
+  transform: rotate(-1deg);
+}
+#liste li:nth-child(even) .kapak { transform: rotate(1deg); }
+.kapak:empty::after { content: "?"; display: grid; place-items: center; height: 100%; color: #8a7e6d; }
+.kapak img { display: block; width: 100%; height: 100%; object-fit: cover; object-position: top; }
+
+.bilgi h2 { margin: 0; font: 700 13px/1.35 system-ui, -apple-system, "Segoe UI", Roboto, sans-serif; }
+.bilgi h2 a { color: #8f231d; text-decoration: underline; text-underline-offset: 2px; }
+.bilgi h2 a:hover { color: #14110f; background: #eadfc7; }
+.yazar { margin: 2px 0 0; color: #4c4439; }
+.etiket { margin: 3px 0 0; color: #8a7e6d; font-size: 11px; }
+.islem { display: flex; gap: 8px; padding-top: 1px; }
+.islem a {
+  color: #14110f;
+  border-bottom: 1px solid #a3231e;
+  text-decoration: none;
+  font-size: 11px;
+}
+.islem a:hover { background: #a3231e; color: #fff4e6; }
+#liste li.bos { display: block; color: #6a6155; }
+#liste li.hata { display: block; color: #a3231e; }
+
+footer { margin-top: 36px; padding-top: 10px; border-top: 1px solid #14110f; color: #7a6e5e; font-size: 11px; }
+footer::before { content: "// "; color: #a3231e; }
+
+@media (max-width: 700px) {
+  .wrap { padding: 0 14px 48px; }
+  header { margin: 0 -14px; padding: 16px 14px 10px; flex-wrap: wrap; }
+  #sayi { margin-left: 0; }
+  .ara { flex-wrap: wrap; }
+  #liste { padding-left: 8px; }
+  #liste li { grid-template-columns: 3ch 44px minmax(0, 1fr); }
+  .kapak { width: 44px; height: 62px; }
+  .islem { grid-column: 3; }
+}

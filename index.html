@@ -1,0 +1,31 @@
+<!doctype html>
+<html lang="tr">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Özgür Kütüphane — katalog</title>
+  <link rel="icon" href="icon.png">
+  <link rel="stylesheet" href="site.css">
+  <script src="site.js" defer></script>
+</head>
+<body>
+  <div class="wrap">
+    <header>
+      <img class="ikon" src="icon.png" alt="">
+      <h1>Özgür Kütüphane</h1>
+      <span id="sayi" aria-live="polite">…</span>
+    </header>
+
+    <div class="ara" role="search">
+      <label>ara <input id="q" type="search" placeholder="başlık, yazar, etiket" autocomplete="off"></label>
+      <label>yazar <select id="yazar"><option value="">hepsi</option></select></label>
+      <button id="temizle" type="button">temizle</button>
+    </div>
+
+    <nav id="etiketler" aria-label="Etiketler"></nav>
+    <ol id="liste" aria-live="polite"></ol>
+
+    <footer>kaynak: README.md — kapaklar: PDF ilk sayfası</footer>
+  </div>
+</body>
+</html>
