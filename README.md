@@ -7,7 +7,7 @@ Felsefe, tarih, siyaset, edebiyat ve toplumsal düşünce alanlarında kitaplar�
 
 ## Kitaplar
 
-29 etikette toplam 82 kitap var. Dosyalar yazara göre klasörlenir; konular etiketlerle tutulur ve bir kitap birden fazla etikete girebilir.
+29 etikette toplam 87 kitap var. Dosyalar yazara göre klasörlenir; konular etiketlerle tutulur ve bir kitap birden fazla etikete girebilir.
 
 Etiketler:  `anarşizm · anarko-komünizm · anarko-sendikalizm · platformizm · cnt · mahnovşçina · ispanyol-devrimi · rus-devrimi · sosyalizm · türkiye solu · marksizm · komünizm · kapitalizm · liberalizm · mülkiyet · ekonomi · örgütlenme · devlet · primitivizm · teknoloji-eleştirisi · ekoloji · feminizm · sömürgecilik · felsefe · din · egoizm · biyografi · tarih · edebiyat `
 
@@ -219,6 +219,24 @@ Etiketler:  `anarşizm · anarko-komünizm · anarko-sendikalizm · platformizm 
 
 - **Vladimir Lenin**
   - [Devlet ve Devrim](kitaplar/vladimir-lenin/devlet-ve-devrim.pdf) — etiketler: `sosyalizm`, `marksizm`, `komünizm`, `örgütlenme`, `devlet`
+
+### Türkiye Solu / 6 kitap
+
+- **Deniz Gezmiş**
+  - [THKO Davasındaki Savunması](kitaplar/deniz-gezmiş/thko-davasındaki-savunması.pdf) — etiketler: `sosyalizm`, `marksizm`, `türkiye solu`, `tarih`
+
+- **Halit Çelenk**
+  - [1. THKO Davası](kitaplar/halit-çelenk/1-thko-davası.pdf) — etiketler: `türkiye solu`, `biyografi`, `tarih`
+
+- **İbrahim Kaypakkaya**
+  - [Bütün Eserleri](kitaplar/ibrahim-kaypakkaya/bütün-eserleri.pdf) — etiketler: `sosyalizm`, `marksizm`, `komünizm`, `devlet`, `felsefe`, `türkiye solu`, `tarih`
+
+- **Mahir Çayan**
+  - [Bütün Yazılar](kitaplar/mahir-çayan/bütün-yazılar.pdf) — etiketler: `sosyalizm`, `marksizm`, `komünizm`, `devlet`, `felsefe`, `tarih`, `türkiye solu`
+  - [Kesintisiz Devrim I](kitaplar/mahir-çayan/kesintisiz-devrim-1.pdf) — etiketler: `sosyalizm`, `marksizm`, `komünizm`, `devlet`, `felsefe`, `türkiye solu`
+
+- **Mahir Çayan ve arkadaşları**
+  - [THKP-C Savunma](kitaplar/mahir-çayan-ve-arkadaşları/thkp-c-savunma.pdf) — etiketler: `sosyalizm`, `marksizm`, `komünizm`, `devlet`, `türkiye solu`, `tarih`
 
 ### Kapitalizm ve liberalizm / 10 kitap
 
