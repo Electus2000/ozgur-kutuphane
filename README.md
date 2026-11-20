@@ -7,9 +7,9 @@ Felsefe, tarih, siyaset, edebiyat ve toplumsal düşünce alanlarında kitaplar�
 
 ## Kitaplar
 
-27 etikette toplam 71 kitap var. Dosyalar yazara göre klasörlenir; konular etiketlerle tutulur ve bir kitap birden fazla etikete girebilir.
+28 etikette toplam 74 kitap var. Dosyalar yazara göre klasörlenir; konular etiketlerle tutulur ve bir kitap birden fazla etikete girebilir.
 
-Etiketler:  `anarşizm · anarko-komünizm · anarko-sendikalizm · platformizm · cnt · mahnovşçina · ispanyol-devrimi · rus-devrimi · sosyalizm · türkiye solu · marksizm · komünizm · kapitalizm · liberalizm · mülkiyet · ekonomi · örgütlenme · devlet · primitivizm · teknoloji-eleştirisi · ekoloji · feminizm · sömürgecilik · felsefe · biyografi · tarih · edebiyat `
+Etiketler:  `anarşizm · anarko-komünizm · anarko-sendikalizm · platformizm · cnt · mahnovşçina · ispanyol-devrimi · rus-devrimi · sosyalizm · türkiye solu · marksizm · komünizm · kapitalizm · liberalizm · mülkiyet · ekonomi · örgütlenme · devlet · primitivizm · teknoloji-eleştirisi · ekoloji · feminizm · sömürgecilik · felsefe · egoizm · biyografi · tarih · edebiyat `
 
 ### Anarşizm / 36 kitap
 
@@ -88,6 +88,17 @@ Etiketler:  `anarşizm · anarko-komünizm · anarko-sendikalizm · platformizm 
 - **Volin**
   - [Bilinmeyen Devrim](kitaplar/volin/bilinmeyen-devrim.pdf) — etiketler: `anarşizm`, `mahnovşçina`, `rus-devrimi`, `örgütlenme`, `biyografi`, `tarih`
   - [Rus Devrimleri](kitaplar/volin/rus-devrimleri.pdf) — etiketler: `anarşizm`, `mahnovşçina`, `rus-devrimi`, `örgütlenme`, `tarih`
+
+### Egoizm ve bireycilik / 3 kitap
+
+- **Max Stirner**
+  - [Biricik ve Mülkiyeti](kitaplar/max-stirner/biricik-ve-mülkiyeti.pdf) — etiketler: `anarşizm`, `felsefe`, `egoizm`, `mülkiyet`
+
+- **Muhammet Hanifi Macit**
+  - [Max Stirner: Anarşist-Egoist-Nihilist](kitaplar/muhammet-hanifi-macit/max-stirner-anarsist-egoist-nihilist.pdf) — etiketler: `anarşizm`, `felsefe`, `egoizm`, `biyografi`
+
+- **Philippe Corcuff**
+  - [Bireyciliğin Meselesi](kitaplar/philippe-corcuff/bireyciliğin-meselesi.pdf) — etiketler: `felsefe`, `egoizm`, `sosyalizm`, `marksizm`, `mülkiyet`
 
 ### Mahnovşçina ve Ukrayna / 8 kitap
 
