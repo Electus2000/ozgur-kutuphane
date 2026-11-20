@@ -211,7 +211,7 @@ Etiketler:  `anarşizm · anarko-komünizm · anarko-sendikalizm · platformizm 
 
 - **George Orwell**
   - [1984](kitaplar/george-orwell/1984.pdf) — etiketler: `devlet`, `teknoloji-eleştirisi`, `edebiyat`
-  - [Hayvan Çiftliği: Bir Peri Masalı](kitaplar/george-orwell/hayvan-çiftliği-bir-peri-masali.pdf) — etiketler: `rus-devrimi`, `sosyalizm`, `devlet`, `edebiyat`
+  - [Hayvan Çiftliği](kitaplar/george-orwell/hayvan-çiftliği-bir-peri-masali.pdf) — etiketler: `rus-devrimi`, `sosyalizm`, `devlet`, `edebiyat`
 
 - **José Saramago**
   - [Görmek](kitaplar/jose-saramago/görmek.pdf) — etiketler: `edebiyat`
