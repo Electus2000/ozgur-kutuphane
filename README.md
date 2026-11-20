@@ -7,7 +7,7 @@ Felsefe, tarih, siyaset, edebiyat ve toplumsal düşünce alanlarında kitaplar�
 
 ## Kitaplar
 
-28 etikette toplam 74 kitap var. Dosyalar yazara göre klasörlenir; konular etiketlerle tutulur ve bir kitap birden fazla etikete girebilir.
+28 etikette toplam 77 kitap var. Dosyalar yazara göre klasörlenir; konular etiketlerle tutulur ve bir kitap birden fazla etikete girebilir.
 
 Etiketler:  `anarşizm · anarko-komünizm · anarko-sendikalizm · platformizm · cnt · mahnovşçina · ispanyol-devrimi · rus-devrimi · sosyalizm · türkiye solu · marksizm · komünizm · kapitalizm · liberalizm · mülkiyet · ekonomi · örgütlenme · devlet · primitivizm · teknoloji-eleştirisi · ekoloji · feminizm · sömürgecilik · felsefe · egoizm · biyografi · tarih · edebiyat `
 
@@ -89,10 +89,13 @@ Etiketler:  `anarşizm · anarko-komünizm · anarko-sendikalizm · platformizm 
   - [Bilinmeyen Devrim](kitaplar/volin/bilinmeyen-devrim.pdf) — etiketler: `anarşizm`, `mahnovşçina`, `rus-devrimi`, `örgütlenme`, `biyografi`, `tarih`
   - [Rus Devrimleri](kitaplar/volin/rus-devrimleri.pdf) — etiketler: `anarşizm`, `mahnovşçina`, `rus-devrimi`, `örgütlenme`, `tarih`
 
-### Egoizm ve bireycilik / 3 kitap
+### Egoizm ve bireycilik / 6 kitap
 
 - **Max Stirner**
   - [Biricik ve Mülkiyeti](kitaplar/max-stirner/biricik-ve-mülkiyeti.pdf) — etiketler: `anarşizm`, `felsefe`, `egoizm`, `mülkiyet`
+  - [Okul Yasaları Üzerine](kitaplar/max-stirner/okul-yasaları-üzerine.pdf) — etiketler: `anarşizm`, `felsefe`, `egoizm`
+  - [Eğitimimizin Gerçek Olmayan İlkesi ya da Hümanizm ve Realizm](kitaplar/max-stirner/eğitimimizin-gerçek-olmayan-ilkesi-ya-da-hümanizm-ve-realizm.pdf) — etiketler: `anarşizm`, `felsefe`, `egoizm`
+  - [Sanat ve Din](kitaplar/max-stirner/sanat-ve-din.pdf) — etiketler: `anarşizm`, `felsefe`, `egoizm`
 
 - **Muhammet Hanifi Macit**
   - [Max Stirner: Anarşist-Egoist-Nihilist](kitaplar/muhammet-hanifi-macit/max-stirner-anarsist-egoist-nihilist.pdf) — etiketler: `anarşizm`, `felsefe`, `egoizm`, `biyografi`
